@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SemFundo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SemFundo_jar</output-path>
+    <root id="archive" name="SemFundo.jar">
+      <element id="module-output" name="SemFundo" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DuJava/out/artifacts/DuJava_jar/DuJava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Http/out/artifacts/Http_jar/Http.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

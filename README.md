@@ -1,0 +1,1 @@
+# programa que remove o plano de fundo de Imagens
